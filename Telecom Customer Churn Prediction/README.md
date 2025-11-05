@@ -57,6 +57,3 @@ This project focused on predicting customer churn in a telecommunications compan
 From the data analysis, customers who were on month-to-month contracts, had higher monthly charges, and used fiber optic internet were found to be more likely to churn. In contrast, customers with longer tenure and two-year contracts showed significantly lower churn rates. These patterns suggest that billing stability and contract duration play key roles in customer retention.  
 
 Overall, the findings highlight that churn is driven by a mix of service-related and cost-related factors rather than demographic characteristics. The model and insights derived from this project can help telecom companies design better retention strategies, such as offering contract incentives or personalized discounts for at-risk customers.  
-
-
---
