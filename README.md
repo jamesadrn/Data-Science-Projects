@@ -12,3 +12,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Objective:** The project predicts whether a customer will churn (leave the service) based on demographic, contract, and billing information from a telecom dataset.
    - **Models:** Logistic Regression, Support Vector Machine (SVM), and Naive Bayes.
    - **Results:** The SVM model achieved the best performance with 83% accuracy, outperforming Logistic Regression (82%) and Naive Bayes (75%).
+3. [Bandung House Price Prediction](./Bandung%20House%20Price%20Prediction)  
+   - **Objective:** The project predicts **house prices in Bandung** using key property features such as land area, building size, and structural attributes.  
+   - **Models:** Linear Regression, Random Forest Regression, and XGBoost Regression.  
+   - **Results:** The **XGBoost** model achieved the best performance with 78.38% accuracy, outperforming Random Forest (77.65%) and Linear Regression (72.13%).
