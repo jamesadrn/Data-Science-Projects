@@ -1,4 +1,4 @@
-# Bandung House Price Prediction 🏠  
+# Bandung House Price Prediction 
 ![](BandungHousePricePrediction.jpg)
 
 ## Project Overview:
